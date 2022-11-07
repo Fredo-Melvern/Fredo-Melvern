@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Fredo-Melvern
+- 👋 Hi, I’m @fredo-melvern
 - 👀 I’m interested in Game Development, Competitive Programming
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on Game Development
